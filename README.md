@@ -1,9 +1,8 @@
 <p align="center">
-    <img src="https://www.davidalber.net/images/og/mnist-digits-2.png" height="300px">
-    <a href="https://www.davidalber.net/2023/06/viewing-mnist-images/">Source</a>
+    <img src="./documents/images/plot.png" height="300px">
 </p>
 
-# Bitcoin Predictions
+# Bitcoin Prediction
 
 The MNIST database of handwritten digits, which has a training set of 60,000 examples, and a test set of 10,000 examples.
 
